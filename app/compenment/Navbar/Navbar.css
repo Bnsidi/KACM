@@ -1,0 +1,15 @@
+.tt{
+    font-size: 12px;
+
+}
+.tt a {
+    text-transform: uppercase;
+    padding: 0 10px;
+}
+
+.login, .register {
+    text-transform: uppercase;
+    padding: 0 10px;
+}
+
+/* Add any other styles here as per the design */
